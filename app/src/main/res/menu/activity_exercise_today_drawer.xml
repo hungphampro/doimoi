@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_exercise_today"
+            android:icon="@drawable/today"
+            android:title="@string/BaiTapHomNay"></item>
+        <item
+            android:id="@+id/nav_recently_exercise"
+            android:icon="@drawable/calendar"
+            android:title="@string/RecentlyExercise"/>
+        <item
+            android:id="@+id/nav_nutrition"
+            android:icon="@drawable/cereals"
+            android:title="@string/Nutrition"/>
+        <item
+            android:id="@+id/nav_present"
+            android:icon="@drawable/chart"
+            android:title="@string/ThongKe"/>
+        <item
+            android:id="@+id/nav_update"
+            android:icon="@drawable/update"
+            android:title="@string/CapNhapChiSo"/>
+        <item
+            android:id="@+id/alarm"
+            android:icon="@drawable/timer"
+            android:title="@string/HenGioTap"></item>
+    </group>
+
+
+</menu>

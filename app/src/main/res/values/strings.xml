@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Gym</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="BMI">BMI(Body Mass Index)được gọi là chỉ số cơ thể,dùng để xác định tình trạng cơ thể của một người nào đó có bị thừa cân hay gầy ốm không.</string>
+    <string name="height">Chiều Cao(cm):</string>
+    <string name="weight">Cân nặng(Kg):</string>
+    <string name="calculateBMI"> Tính chỉ số BMI</string>
+    <string name="result">...Kết quả...</string>
+    <string name="index">BMI</string>
+    <string name="BodyStatus">Tình trạng cơ thể</string>
+    <string name="JumpingJacks"><![CDATA[Đầu tiên các bạn đứng thẳng, 2 chân khép. <br/>
+                                          Nhún người bật nhảy 2 chân sang ngang, đồng thời đánh tay lên trên đầu.<br/>
+                                          Bật nhảy trở lại vị trí cũ. <br/>
+                                          Thực hiện liên tục càng nhanh càng tốt. Trong vòng 15 p]]></string>
+    <string name="PushUp"><![CDATA[1. Nằm xấp trên mặt đất, tay thẳng giữ thân hình.<br/>
+
+                                    2. Tiếp theo, hạ thân xuống cho tới khi ngực chạm đất trong khi hít vào.<br/>
+
+                                    3. Thở ra và đẩy thân trên trở lại vị trí bắt đầu trong khi gồng ngực.<br/>
+
+                                    4. Dừng lại một giây ở vị trí trên cùng.<br/>
+
+                                    5. Lặp lại động tác cho tới khi đạt được số lần yêu cầu.]]></string>
+    <string name="AbdominalCrunches"><![CDATA[1. Ngồi lên ghế dốc tập bụng, đảm bảo rằng khuỷu chân của bạn ở cuối băng ghế, giữ cơ bụng hơi căng.<br/>
+
+                                    2. Từ từ hạ người xuống đồng thời hít vào. Hạ người đảm bảo không xuống quá thấp.<br/>
+
+                                    3. Cuộn người trở về vị trí ban đầu, tránh dùng cơ Psoap. Đưa người về vị trí ban đầu, thở ra.]]></string>
+    <string name="sep_upOntoChair"><![CDATA[Động tác bước lên ghế. Bạn đặt chân trái lên ghế. Nhấc cả thân người lên ghế sao cho chân trái duỗi thẳng, hạ người xuống. Lập lại với chân phải và cứ thế đổi chân]]></string>
+
+    <string name="plank"><![CDATA[Tư thế lát ván. Bạn đặt khuỷu tay vuông góc dưới vai. Gáy, mông, gót chân trên một đường thẳng và siết chặt bụng nhưng vẫn hít thở đều đặn. Giữ trong 30 giây]]></string>
+
+    <string name="squat"><![CDATA[Đứng chân rộng bằng vai, hạ thấp người xuống sao cho đầu gối vuông góc, hông đẩy ra sau. Xuống thở ra lên hít vào]]></string>
+
+    <string name="birdDog"><![CDATA[
+                                    Tạo tư thế mặt bàn với hai tay ở ngay dưới hai vai, hai gối ở ngay dưới hai hông.
+                                    Đồng thời nâng tay trái và chân phải.
+                                    Dừng lại trong 5-10 giây trước khi hạ xuống.
+                                    Lặp lại cho tay và chân còn lại.]]></string>
+
+    <string name="tricepsDipOnChair"><![CDATA[Động tác ngồi chống hai tay ra sau lên ghế, giúp tăng cường cơ ba đầu (các cơ sau bắp tay)]]></string>
+
+    <string name="highKneesRunningInPlace"><![CDATA[Chạy nâng cao đùi tại chỗ.]]></string>
+
+    <string name="plunge"><![CDATA[Chụm chân, bước chân phải lên hạ thấp người xuống, đầu gối 2 chân vuông góc, hạ sát đầu gối xuống sàn. Bước xuống thở ra đứng lên hít vào. Làm tương tự với chân trái.]]></string>
+
+    <string name="push_upAndRotation"><![CDATA[ Chống đẩy và xoay người. Khi hạ người xuống, bạn đưa một tay lên rồi xoay thắt lưng. Trở lại tư thế chống đẩy ban đầu.]]></string>
+
+    <string name="sidePlank"><![CDATA[ Tư thế lát ván nghiêng: Duỗi thẳng chân phải, đặt bàn chân trái xuống vuông góc với mặt sàn. Duỗi tay phải theo hông phải. Chống khuỷu tay trái vuông góc với thân.]]></string>
+
+    <string name="wallSit"><![CDATA[Ngồi dựa sát vào tường, lưng thẳng, vai thả lỏng thư giãn, 2 chân mở bằng vai, mũi chân hướng thẳng về trước (không mở bàn chân chữ V). Hạ thấp cơ thể, đùi vuông góc với lưng và chân. Cúi về trước, thẳng chân đẩy người vào tường khi đứng dậy.]]></string>
+
+    <string name="breakDancer"><![CDATA[
+                        Tạo tư thế hít đất, hai tay ở dưới hai vai và thân người tạo thành 1 đường thẳng từ đầu tới gót chân. Giữ nguyên hai tay, đưa từng chân sang từng bên không cong gối.
+                        Thực hiện theo chuyển động chậm có kiểm soát, hay tăng nhịp độ để tăng trao đổi chất.
+                    ]]></string>
+    <string name="bicycleCrunch"><![CDATA[
+                    Nằm ngửa người trên sàn, hai hông và gối gập 1 góc 90 độ sao cho hai chân song song với sàn.
+                    Đặt các đầu ngón tay ở dưới hai bên đầu và nâng hai vai khỏi sàn.
+                    Vặn thân người trên sang phải khi kéo gối phải vào càng nhanh càng tốt cho tới khi nào gần chạm vào cổ tay trái.
+                    Đồng thời, duỗi thẳng chân trái.
+                    Quay trở lại vị trí ban đầu và lặp lại cho bên phải.
+                    ]]></string>
+    <string name="summary">Cử tạ giúp cơ thể bạn cân đối hơn</string>
+
+    <string name="nutritionNormalMorning"> 1 dĩa bánh cuốn nhân thịt + 1 trái xoài.</string>
+    <string name="nutritionNormalNoon">3 bát cơm + thịt bò xào rau + canh rau + 2 múi bưởi</string>
+    <string name="nutritionNormalLunch">2 chén cơm + thịt vịt kho + canh cà chua + 1 hũ sữa chua.</string>
+    <string name="nutritionNormalNhacNho">Trước khi ngủ bạn có thể ăn thêm bánh ngọt và uống sữa</string>
+    <string name="nutritionStrongMorning"> 1 dĩa bánh cuốn nhân thịt + 1 trái xoài.</string>
+    <string name="nutritionStrongNoon"> 2 bát cơm + 100g thịt kho tàu + 1 bát canh rau củ + 100g nho Mỹ</string>
+    <string name="nutritionStrongLunch">1 chén cơm + thịt vịt kho + canh cà chua + 1 hũ sữa chua.</string>
+    <string name="nutritionStrongNhacNho">Tuyệt đối không được ăn đồ ngọt hay ăn vặt nhiều.</string>
+    <string name="nutritionWeekMorning"> 1 dĩa bánh cuốn nhân thịt + 1 trái xoài.</string>
+    <string name="nutritionWeekNoon">2.5 bát cơm + 100g thịt kho tàu + 1 bát canh rau củ + 100g nho Mỹ.</string>
+    <string name="nutritionWeekLunch">2 bát cơm + 1 bát canh mướp đắng nhồi thịt + cá kho + l ly sữa.</string>
+    <string name="nutritionWeekNhacNho">Trước khi đi ngủ nên ăn một ít bánh ngọt và uống sữa</string>
+
+    <string name="message_box_title">Chuẩn bị tập thể hình</string>
+    <string name="message_timeSheet_not_up_to_date">Đã đến giờ tập thể hình bạn nên chuẩn bị cách dụng cụ và nước nhé</string>
+
+    <!--Navigation-->
+    <string name="RecentlyExercise">Bài Tập Gần Đây</string>
+    <string name="Nutrition">Dinh Dưỡng Trong Ngày</string>
+    <string name="ThongKe">Thống Kê</string>
+    <string name="CapNhapChiSo">Cập Nhập Chỉ Số</string>
+    <string name="HenGioTap">Cài Đặt Giờ Tập</string>
+    <string name="BaiTapHomNay">Bài Tập HÔm Nay</string>
+    <!--end Navigation-->
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ExerciseActivity">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#123180"
+            android:minHeight="?attr/actionBarSize"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
+            app:theme="@style/ThemeToolbar">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+                <ImageView
+                    android:visibility="gone"
+                    android:id="@+id/back"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/arrow"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:textSize="18sp"
+                    android:textColor="@color/colorWhite"
+                    android:layout_toRightOf="@+id/back"
+                    android:visibility="gone"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/actionleft"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:id="@+id/title"
+                    android:text="Bai Tap"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="26sp"
+                    android:layout_height="wrap_content" />
+                <ImageView
+                    android:id="@+id/imageaction"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_centerVertical="true"
+                    android:visibility="gone"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:id="@+id/action"
+                    android:textColor="@color/colorWhite"
+                    android:text="Them"
+                    android:textSize="18sp"
+                    android:visibility="gone"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+        </android.support.v7.widget.Toolbar>
+    <com.roughike.bottombar.BottomBar
+        android:id="@+id/bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        app:bb_tabXmlResource="@xml/bottombar_tabs" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_above="@+id/bottomBar"
+        android:background="#092747"
+        android:id="@+id/fragment"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar">
+
+    </FrameLayout>
+
+</RelativeLayout>

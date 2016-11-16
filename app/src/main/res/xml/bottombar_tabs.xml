@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_baitap"
+        icon="@drawable/baitap"
+        title="Bài Tập"
+        />
+    <tab
+        id="@+id/tab_dinhduong"
+        icon="@drawable/dinhduong"
+        title="Dinh Dưỡng"
+        />
+    <tab
+        id="@+id/tab_nhacnho"
+        icon="@drawable/nhacnho"
+        title="Nhắc Nhở"
+        />
+    <tab
+        id="@+id/tab_kehoach"
+        icon="@drawable/kehoach"
+        title="Kế Hoạch"
+        />
+    <!-- You can use @color resources too! -->
+</tabs>
+
